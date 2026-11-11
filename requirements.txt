@@ -1,0 +1,4 @@
+litellm[proxy]
+python-dotenv
+langchain-litellm
+langchain-core
